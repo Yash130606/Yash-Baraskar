@@ -97,9 +97,9 @@
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yash-baraskar-670956301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yash-baraskar-670956301/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([YOUR_GITHUB_LINK](https://github.com/Yash130606))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Yash130606))
 
 ---
 
